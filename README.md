@@ -1,5 +1,5 @@
 # JJW_Strength
-Reshade shader for affecting the strength of other shaders. Useful for if you like an effect but want it to be subtler, but there is no way to change the "strength" in the shaders own controls.
+Reshade shader for affecting the strength of other shaders. Useful for if you like an effect but want it to be subtler, and there is no way to change the "strength" in the shaders own controls.
 
 To download, click the green code button at the top right of this window, then click download zip. Extract and merge the shaders folder with your reshade shader folder.
 
